@@ -1,1 +1,62 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Currículo </title>
+<style>
+   body{
+    background-color: #f5f7fb;
+   font-family: Georgia, serif;
+    margin: 20px;
+    }
+    
+     h1 {
+      margin: 0;
+      font-weight: 700;
+      
+       }
+            
+  	h2{
+    color: #555
+    }
+    
+    p{
+      margin: 8px 0;
+      line-height: 1.4;
+    }
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Rafael Carvalho Gonçalves da Silva</h1>
+
+<h2>Contato</h2>
+<p> E-mail: rafael.gsilva@sempreceub.com</p>
+<p> Telefone: (61)996499394</p>
+<p> <a href = "https://www.linkedin.com/in/rafael-carvalho-goncalves-da-silva-814253359/"> LinkedIn</a></p> 
+<p> <a href = "https://github.com/Raduzinho914">GitHub</a></p>
+
+
+
+<h2>Formação</h2>
+<p> Graduação (em andamento)</p>
+<p><strong>UniCEUB- Engenharia de Software</strong>  02/2025- 12/2028</p>
+
+
+<h2>Habilidades</h2>
+<p> <strong>Linguagens de Programação:</strong> C, Python, HTML, CSS - Básico</p>
+<p> <strong>Ferramentas:</strong> Pacote Office, Git</p>
+<p> <strong>Inglês:</strong> Avançado</p>
+
+
+</body>
+</html>
+
+
+
